@@ -45,5 +45,13 @@ Steep to create this project  :
     
     
     
+/***********************
+** Screen shot     *****
+***********************/
+
+the screenshot is divided by three part , the web part and the mobile part , with some example like the first land and pagination and single page 
+-> Go to /screenShot and you will find part-1/part-2/part-3
+    
+    
 *********************** Finish readMe ************************
     
